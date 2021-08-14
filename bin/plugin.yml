@@ -1,0 +1,14 @@
+api-version: 1.13
+name: MCBR
+author: Danichee
+version: 1.0
+main: me.danichee.MCBR.Main
+description: Kits pvp battle royale (hunger games)
+
+commands:
+ kit:
+  usage: /kit [kit_name]
+  description: Selection of kit
+ kits:
+  usage: /kits
+  description: Lists all currently available kits
