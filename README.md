@@ -32,8 +32,16 @@ Everyone spawns with a compass that guides you to the closest player to you when
 
 ## Kits
 
-Every kit is different but gives you a unique advantage in some way. The Thor kit spawns you in with a magical axe that upon right clicking a block, sends lightning down, damaging anyone on that block, destroys it and sets it on fire. You are passively immune to fire. There is a cooldown of 5 seconds before re-use.
+Every kit is different but gives you a unique advantage in some way. 2 examples below:
+
+* The Thor kit spawns you in with a magical axe that upon right clicking a block, sends lightning down, damaging anyone on that block, destroys it and sets it on fire. You are passively immune to fire. There is a cooldown of 5 seconds before re-use.
 
 ![mcbr7](https://user-images.githubusercontent.com/39421814/177202778-5b903275-ff85-40af-9d95-810ec051efa2.png)
+
+* The Flash kit gives you the ability to move really fast for 5 seconds (1 minute cooldown), leaving a trail of fire behind you.
+
+![mcbr8](https://user-images.githubusercontent.com/39421814/177213295-23297c06-cdfe-49f2-b7d3-c0f9aa80ab5b.png)
+
+## Last One Standing Wins! Have Fun!
 
 
